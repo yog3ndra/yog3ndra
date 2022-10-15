@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yog3ndra
-- 👀 I’m interested in AI/ML ans new technology.
-- 💞️ I’m looking to collaborate on AI/ML projects
+- 👀 I’m interested in learning AI/ML blockchain.
+- 💞️ I’m looking to collaborate on AI/ML/blockchain projects
 - 📫 How to reach me - yogendra.dehariya@gmail.com
 
 <!---
